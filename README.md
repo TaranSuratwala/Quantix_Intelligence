@@ -1,1 +1,1 @@
-# STOCKWALA
+# Quantix Intelligence
